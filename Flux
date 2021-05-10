@@ -1,5 +1,5 @@
 do
-	local ui = game:GetService("CoreGui"):FindFirstChild("Kiwi X")
+	local ui = game:GetService("CoreGui"):FindFirstChild("Kiwi X)
 	if ui then
 		ui:Destroy()
 	end
