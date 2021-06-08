@@ -1,5 +1,5 @@
 do
-	local ui = game:GetService("CoreGui"):FindFirstChild("Sorky Hub)
+	local ui = game:GetService("CoreGui"):FindFirstChild("Sorky Hub")
 	if ui then
 		ui:Destroy()
 	end
