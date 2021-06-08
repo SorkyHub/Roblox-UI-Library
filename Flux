@@ -1,5 +1,5 @@
 do
-	local ui = game:GetService("CoreGui"):FindFirstChild("Kiwi X")
+	local ui = game:GetService("CoreGui"):FindFirstChild("Sorky Hub)
 	if ui then
 		ui:Destroy()
 	end
@@ -16,7 +16,7 @@ local Mouse = LocalPlayer:GetMouse()
 local CloseBind = Enum.KeyCode.RightControl
 
 local FluxLib = Instance.new("ScreenGui")
-FluxLib.Name = "Kiwi X"
+FluxLib.Name = "Sorky"
 FluxLib.Parent = game.CoreGui
 FluxLib.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
